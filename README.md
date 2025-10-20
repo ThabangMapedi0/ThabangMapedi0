@@ -20,5 +20,5 @@ I'm a networking student passionate about **cybersecurity**, **web development**
 
 ## 📫 Connect with me
 - Twitter: [devthabang](#)
-  - LinkedIn: [linkedin.com/in/thabang-mapedi-4018b5276](#)
+- LinkedIn: [linkedin.com/in/thabang-mapedi-4018b5276](#)
 - Instagram: [@techguythabang](#)
