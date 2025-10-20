@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Thabang Mapwdi
+# Hi there 👋 I'm Thabang Mapedi
 
 I'm a networking student passionate about **cybersecurity**, **web development**, and **bug bounty hunting**.
 
