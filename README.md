@@ -18,6 +18,7 @@ I'm a networking student passionate about **cybersecurity**, **web development**
 - Publish my first safe write-up
 
 ## 📫 Connect with me
-- [Twitter:](devthabang#)
-- [LinkedIn:](linkedin.com/in/thabang-mapedi-4018b5276#)
-- [Instagram:](@techguythabang#)
+
+- 🐦 Twitter: [@devthabang](https://twitter.com/devthabang)
+- 💼 LinkedIn: [Thabang Mapedi](https://www.linkedin.com/in/thabang-mapedi-4018b5276/)
+- 📸 Instagram: [@techguythabang](https://www.instagram.com/techguythabang/)
