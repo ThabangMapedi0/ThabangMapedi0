@@ -5,7 +5,6 @@ I'm a networking student passionate about **cybersecurity**, **web development**
 ## 🚀 What I’m doing
 - 🧠 Learning web app hacking via PortSwigger Academy & TryHackMe  
 - 🕵️‍♂️ Practicing recon & reporting skills through safe labs  
-- 💻 Building tools and documenting everything in my repo: [bounty-journey](#)
 
 ## ⚙️ Tech Interests
 - Web Security (XSS, IDOR, SSRF, SQLi)
